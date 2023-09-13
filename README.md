@@ -9,4 +9,4 @@
 ## Statistics:
 |                                                                                                                                         |                                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitenelumbo&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitenelumbo&show_icons=true&theme=cobalt&layout=compact) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nat167&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nat167&show_icons=true&theme=cobalt&layout=compact) |
