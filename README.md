@@ -6,6 +6,9 @@
   </tr>
 </table>
 
+My workspace:
+https://cherykom.kaiten.ru/space/344156
+
 * Skills:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
